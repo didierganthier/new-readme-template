@@ -12,10 +12,13 @@ Full-Stack Software Developer with a love for React, Flutter, Rust, and TypeScri
 *   🚀  I'm currently working on [Math magicians](http://github.com/didierganthier/math-magicians)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Haiti Blockchain Alliance
-*   ⚡  I'm secretely Spiderman... but don't tell anyone<a href="https://www.twitter.com/didierganthier_" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm secretely Spiderman... but don't tell anyone
+
+<a href="https://www.twitter.com/didierganthier_" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/didierganthier_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/didierganthier" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/didierganthier?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/didierganthier?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
